@@ -1,0 +1,4 @@
+.carousel-inner > .item > img {
+  min-width: 100%;
+  height: 500px;
+}

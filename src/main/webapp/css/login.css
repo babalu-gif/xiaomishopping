@@ -1,0 +1,70 @@
+* {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			body {
+				background-image: url(../images/bg.jpg);
+			}
+			
+			#login {
+				width: 450px;
+				height: 400px;
+				border-radius: 15px;
+				background-color: white;
+				margin: 0px auto;
+				margin-top: 180px;
+				border: 1px solid white;
+			}
+			
+			#login #top {
+				width: 420px;
+				height: 60px;
+				line-height: 60px;
+				/*border: 1px solid red;*/
+				margin: 0px auto;
+				margin-top: 65px;
+			}
+			
+			#login #top img {
+				margin-left: 90px;
+				margin-top: -20px;
+				float: left;
+			}
+			
+			#login #top span {
+				font-size: 40px;
+				font-weight: bold;
+				font-family: 微软雅黑;
+			}
+			
+			#login #bottom {
+				width: 420px;
+				height: 205px;
+				/*border: 1px solid red;*/
+				margin: 0px auto;
+				margin-top: 10px;
+				padding: 20px;
+			}
+			
+			#login #bottom #table {
+				width: 400px;
+				height: 180px;
+				/*border: 1px solid red;*/
+				margin: 0px auto;
+			}
+			
+			#login #bottom .td1 {
+				font-size: 20px;
+				text-align: right;
+			}
+			
+			#login #bottom .td2 {
+				width: 250px;
+				height: 40px;
+			}
+			
+			#login #bottom .td3 {
+				width: 125px;
+				height: 40px;
+			}

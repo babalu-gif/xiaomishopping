@@ -1,0 +1,77 @@
+* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			#addAll {
+				width: 1235px;
+				height: 700px;
+				/*border: 1px solid red;*/
+				background-color: #ECECEC;
+				border: 1px solid black;
+			}
+			
+			#addAll #nav {
+				margin-top: 20px;
+				width: 1170px;
+				height: 50px;
+				line-height: 50px;
+				border: 1px solid #ECECEC;
+				margin: 0px auto;
+				margin-left: 35px;
+			}
+			
+			#addAll #nav p {
+				height: 17px;
+				line-height: 17px;
+				margin-top: 20px;
+				color: orangered;
+				font-size: 19px;
+			}
+			
+			#addAll #table {
+				width: 1170px;
+				height: 600px;
+				margin-left: 35px;
+				background-color: white;
+				border: 1px solid #ECECEC;
+				margin: 0px auto;
+			}
+			
+			#addAll #table tr {
+				width: 800px;
+				height: 35px;
+			}
+			
+			#addAll #table #myform {
+				width: 800px;
+				height: 530px;
+				/*border: 1px solid yellow;*/
+				margin: 0px auto;
+				margin-top: 30px;
+			}
+			
+			#addAll #table .one {
+				width: 80px;
+				height: 35px;
+				/*border: 1px solid forestgreen;*/
+			}
+			
+			#addAll #table .two {
+				width: 720px;
+				height: 35px;
+				/*border: 1px solid blue;*/
+				border-radius: 5px;
+			}
+			
+			#addAll #table .three {
+				width: 720px;
+				height: 15px;
+				/*border: 1px solid blue;*/
+			}
+			
+			#addAll #table .four {
+				width: 80px;
+				height: 15px;
+				/*border: 1px solid blue;*/
+			}

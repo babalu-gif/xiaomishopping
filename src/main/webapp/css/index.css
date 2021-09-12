@@ -1,0 +1,163 @@
+	* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			#all {
+				width: 1440px;
+				height: 760px;
+				/*border: 1px solid red;*/
+				margin: 0px auto;
+			}
+			
+			#all #top {
+				width: 1436px;
+				height: 60px;
+				/*border: 1px solid green;*/
+				background-color: #0099CC;
+			}
+			
+			#all #top #top1 {
+				width: 200px;
+				height: 60px;
+				line-height: 60px;
+				border-right: 1px solid #028AB7;
+				float: left;
+				font-size: 22px;
+				color: white;
+				text-align: center;
+				font-weight: bold;
+			}
+			
+			#all #top #top2 {
+				width: 1040px;
+				height: 60px;
+				border-right: 1px solid #028AB7;
+				float: left;
+			}
+			
+			#all #top #top3 {
+				width: 195px;
+				height: 60px;
+				line-height: 60px;
+				/*border: 1px solid green;*/
+				float: left;
+				text-align: center;
+				font-size: 18px;
+				color: white;
+			}
+			
+			#all #top #top3 a {
+				text-decoration: none;
+				color: white;
+			}
+			
+			#all #top #top3 a:hover {
+				color: blue;
+			}
+			
+			#all #bottom {
+				width: 1440px;
+				height: 700px;
+				/*border: 1px solid red;*/
+			}
+			
+			#all #bottom #bleft {
+				width: 200px;
+				height: 700px;
+				/*border: 1px solid green;*/
+				float: left;
+				background-color: #293038;
+			}
+			
+			#all #bottom #bleft #ltop {
+				width: 200px;
+				height: 155px;
+				line-height: 155px;
+				/*border: 1px solid blue;*/
+				margin: 0px auto;
+			}
+			
+			#all #bottom #bleft #ltop #lts {
+				width: 150px;
+				height: 150px;
+				border-bottom: 1px solid lightgray;
+				margin: 0px auto;
+			}
+			
+			#all #bottom #bleft #ltop img {
+				width: 90px;
+				height: 90px;
+				line-height: 90px;
+				margin-left: 30px;
+				margin-top: -20px;
+				border-radius: 45px;
+				/*border: 1px solid red;*/
+			}
+			
+			#all #bottom #bleft #ltop p {
+				height: 17px;
+				/*border: 1px solid red;*/
+				margin-top: -100px;
+				font-weight: bold;
+				font-size: 18px;
+				color: white;
+			}
+			
+			#all #bottom #bleft #lbottom {
+				height: 520px;
+				width: 200px;
+				/*border: 1px solid red;*/
+				margin-top: 20px;
+			}
+			
+			#all #bottom #bleft #lbottom ul {
+				list-style: none;
+			}
+			
+			#all #bottom #bleft #lbottom li {
+				padding: 0px;
+				width: 200px;
+				height: 50px;
+				line-height: 50px;
+				border: 1px solid #293038;
+				text-align: center;
+				color: white;
+			}
+			/*#363F4A*/
+			
+			#all #bottom #bleft #lbottom .one {
+				background-color: #465260;
+			}
+			
+			#all #bottom #bleft #lbottom .two {
+				background-color: #363F4A;
+			}
+			
+			#all #bottom #bleft #lbottom a {
+				text-decoration: none;
+			}
+			/*background-color: #465260;*/
+			
+			#all #bottom #bleft #lbottom li:hover {
+				background-color: #363F4A;
+			}
+	#all #bottom #bleft #lbottom #lts img:hover{
+		animation: play 5s linear infinite;
+	}
+
+	@keyframes play{
+		0%{transform: rotate(0deg);}
+		/*25%{transform: rotate(100deg);}*/
+		/*50%{transform: scale(2);}*/
+		50%{transform: rotate(180);}
+		100%{transform: rotate(360deg);}
+		/*100%{transform: rotate(0deg);}*/
+	}
+			#all #bottom #bright {
+				width: 1235px;
+				height: 700px;
+				/*border: 1px solid blue;*/
+				float: left;
+				background-color: #ECECEC;
+			}

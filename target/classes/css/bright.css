@@ -1,0 +1,59 @@
+* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			#brall {
+				width: 1235px;
+				height: 700px;
+				/*border: 1px solid red;*/
+				background-color: #ECECEC;
+				border: 1px solid black;
+			}
+			
+			#brall #nav {
+				margin-top: 20px;
+				width: 1170px;
+				height: 50px;
+				line-height: 50px;
+				border: 1px solid #ECECEC;
+				margin: 0px aut;
+				margin-left: 35px;
+			}
+			
+			#brall #nav p {
+				height: 17px;
+				line-height: 17px;
+				margin-top: 20px;
+				color: orangered;
+				font-size: 19px;
+			}
+			
+			#brall #table {
+				width: 1170px;
+				height: 550px;
+				margin-left: 35px;
+				background-color: white;
+				border: 1px solid #ECECEC;
+				margin: 0px auto;
+			}
+			
+			#brall #table #btn1 {
+				background-color: orangered;
+				width: 150px;
+				height: 48px;
+				margin-top: 15px;
+				margin-left: 25px;
+				font-size: 18px;
+			}
+			
+			#brall #table .table {
+				width: 1120px;
+				margin-top: 15px;
+				margin-left: 25px;
+			}
+			
+			#brall #table #eng {
+				width: 80px;
+				height: 110px;
+			}
